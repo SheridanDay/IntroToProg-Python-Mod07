@@ -36,7 +36,7 @@ Ok, so I was able to pickle and unpickle my data. I felt pretty good. Now I knew
 ## Topic 4 – Back to What I Know 
 I spent a few hours messing with a variety of bad ideas that I didn’t like or didn’t work. I again was overcomplicating things, so I went back to an old assignment: if/else statements. It may result in my grade not being what I was hoping, but this worked and I did it all on my own. It displays the data I want, asks the question, and gives you an error if you select the wrong number or uses the “except” statement if you select no number at all (Figure 2). 
 
-![Some of my code in Notepad++](GitHub_NP_close_code.PNG "Some of my code in Notepad++")
+![Some of my code in Notepad++](https://github.com/SheridanDay/IntroToProg-Python-Mod07/blob/main/docs/images/NP%20so%20close.PNG?raw=true "Some of my code in Notepad++")
 ##### *Figure 2. Some of my unpolished code in Notepad++ before it was polished up.*  
 
 ## Summary 
