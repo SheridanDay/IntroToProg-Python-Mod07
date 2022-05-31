@@ -27,7 +27,7 @@ pickle.dump(PT, f)
 pickle.dump(ST, f)
 f.close()
 ```
-##### *Figure 1. A portion of my data pickled data.*  
+##### *Figure 1. A portion of my pickled data.*  
 
 ## Topic 3 – Putting Pieces Together, Somehow, Badly 
 Ok, so I was able to pickle and unpickle my data. I felt pretty good. Now I knew what I wanted to do with the data, but wasn’t sure how to go about it. I knew I wanted a user to select a numbered answer from a list of *Star Wars* trilogies based on a question. It was hard to get my vision out of my head. I tried several ways, including dictionaries, lists, multiple “try/except” statements, and even a (poor) replication of the “Trivia Game” from the book. Nothing worked right or felt like how I wanted my stuff to look. 
